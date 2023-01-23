@@ -1,0 +1,1 @@
+ini adalah mainan git pull push dll
