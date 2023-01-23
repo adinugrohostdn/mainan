@@ -1,0 +1,16 @@
+#block1 {
+    background-color: aqua;
+}
+
+#block1 , p {
+    color: rgb(5, 1, 1);
+}
+
+#block2 {
+    background-color: gray;
+}
+
+#block2 , p {
+    color: rgb(5, 1, 1);
+    size: 10px;
+}
